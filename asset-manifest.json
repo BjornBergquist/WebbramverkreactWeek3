@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BjornBergquist/WebbramverkreactWeek3/static/css/main.a617e044.chunk.css",
+    "main.js": "/BjornBergquist/WebbramverkreactWeek3/static/js/main.dea6237f.chunk.js",
+    "main.js.map": "/BjornBergquist/WebbramverkreactWeek3/static/js/main.dea6237f.chunk.js.map",
+    "runtime-main.js": "/BjornBergquist/WebbramverkreactWeek3/static/js/runtime-main.a931f303.js",
+    "runtime-main.js.map": "/BjornBergquist/WebbramverkreactWeek3/static/js/runtime-main.a931f303.js.map",
+    "static/js/2.2f82dbb1.chunk.js": "/BjornBergquist/WebbramverkreactWeek3/static/js/2.2f82dbb1.chunk.js",
+    "static/js/2.2f82dbb1.chunk.js.map": "/BjornBergquist/WebbramverkreactWeek3/static/js/2.2f82dbb1.chunk.js.map",
+    "static/js/3.930c37a6.chunk.js": "/BjornBergquist/WebbramverkreactWeek3/static/js/3.930c37a6.chunk.js",
+    "static/js/3.930c37a6.chunk.js.map": "/BjornBergquist/WebbramverkreactWeek3/static/js/3.930c37a6.chunk.js.map",
+    "index.html": "/BjornBergquist/WebbramverkreactWeek3/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BjornBergquist/WebbramverkreactWeek3/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2f82dbb1.chunk.js.LICENSE.txt": "/BjornBergquist/WebbramverkreactWeek3/static/js/2.2f82dbb1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BjornBergquist/WebbramverkreactWeek3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a931f303.js",
+    "static/js/2.2f82dbb1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dea6237f.chunk.js"
+  ]
+}
