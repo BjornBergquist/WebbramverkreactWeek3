@@ -1,8 +1,10 @@
+import { GreetUser } from "./components/GreetUser/GreetUser";
+
 
 function App() {
   return (
     <div>
-      Hej!
+      <GreetUser name="DotNet20D"/>
     </div>
   );
 }
